@@ -1,0 +1,6 @@
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM3\WORK19\obj\Debug\net6.0\WORK19.GlobalUsings.g.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM3\WORK19\obj\Debug\net6.0\WORK19.csproj.AssemblyReference.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM3\WORK19\obj\Debug\net6.0\WORK19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM3\WORK19\obj\Debug\net6.0\WORK19.AssemblyInfoInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM3\WORK19\obj\Debug\net6.0\WORK19.AssemblyInfo.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM3\WORK19\obj\Debug\net6.0\WORK19.csproj.CoreCompileInputs.cache
